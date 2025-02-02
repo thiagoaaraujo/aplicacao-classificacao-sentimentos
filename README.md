@@ -16,7 +16,7 @@ A análise de sentimentos é muito utilizada para identificar a polaridade de te
 │-- 📂 models             # Modelos e arquivos serializados
 │-- 📂 notebooks          # Jupyter Notebooks com análises e modelagem
 │-- 📄 requirements.txt   # Dependências do projeto
-│-- 📄 README.md          # Documentação do projeto
+📄 README.md          # Documentação do projeto
 ```
 
 ---
